@@ -1,23 +1,23 @@
 # README - EbookMaker
 
-![EbookMaker Screenshot](screenshot.png)
+![EbookMaker
 
 **EbookMaker** é uma aplicação web completa para escritores que desejam criar, editar e organizar seus ebooks com facilidade. Com um editor de texto avançado, recursos de organização por capítulos e ferramentas de exportação profissional, o EbookMaker é a solução ideal para autores independentes.
 
-## ✨ Funcionalidades Principais
+✨ Funcionalidades Principais
 
-### 📝 Editor Avançado
+📝 Editor Avançado
 - Formatação de texto (negrito, itálico, sublinhado)
 - Cabeçalhos (H1, H2, H3) e listas
 - Citações formatadas (simples e com autor)
 - Inserção de imagens e links
 
-### 📚 Organização
+📚 Organização
 - Sistema de capítulos com navegação fácil
 - Reordenação de seções
 - Contador de palavras e progresso de escrita
 
-### 🎨 Personalização
+🎨 Personalização
 - Modo claro e escuro
 - Diversos temas de formatação
 - Gerador de capas personalizáveis
@@ -25,34 +25,35 @@
   - Seleção de cores e fontes
   - Modelos pré-definidos
 
-### 📤 Exportação
+📤 Exportação
 - Geração de PDF profissional
 - Exportação para EPUB (simulada)
 - Configurações de layout avançadas
 
-### 🤖 Assistente de IA
+🤖 Assistente de IA
 - Integração com Mistral API
 - Sugestões para melhorar textos
 - Expansão de ideias e correção gramatical
 - Armazenamento seguro da chave API
 
-## 🚀 Como Começar
+🚀 Como Começar
 
-### Pré-requisitos
+Pré-requisitos
 - Navegador moderno (Chrome, Firefox, Edge)
 - Conexão com internet para uso da API Mistral (opcional)
 
-### Instalação
+Instalação
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/ebookmaker.git
    ```
 2. Abra o arquivo `index.html` no seu navegador
 
-### Uso Online
-Acesse a versão hospedada em: [https://seu-site.com/ebookmaker](https://seu-site.com/ebookmaker)
-
-## 🔧 Configuração da API Mistral
+Uso Online
+Acesse a versão hospedada em: netlefy app
+https://ebookmakercreador.netlify.app/
+não consegui colocar numa página do Github.
+🔧 Configuração da API Mistral
 
 1. Clique no ícone de chave 🔑 na barra superior
 2. Insira sua chave API no campo indicado
@@ -61,7 +62,7 @@ Acesse a versão hospedada em: [https://seu-site.com/ebookmaker](https://seu-sit
 
 Sua chave é armazenada localmente e nunca é compartilhada com terceiros.
 
-## 🖼️ Como Criar Capas Personalizadas
+🖼️ Como Criar Capas Personalizadas
 
 1. Acesse o gerador de capas pelo menu de exportação
 2. Faça upload de uma imagem ou use uma cor sólida
@@ -81,7 +82,7 @@ ebookmaker/
 └── README.md           # Este arquivo
 ```
 
-## 🤝 Contribuição
+🤝 Contribuição
 
 Contribuições são bem-vindas! Siga estes passos:
 
@@ -91,16 +92,12 @@ Contribuições são bem-vindas! Siga estes passos:
 4. Push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
-## 📄 Licença
+📄 Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-## ✉️ Contato
+✉️ Contato
+vou atualizar depois!
 
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - seu-email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/ebookmaker](https://github.com/seu-usuario/ebookmaker)
-
----
-
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por noob programador
+https://github.com/noob-programador
